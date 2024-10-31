@@ -28,5 +28,10 @@ namespace центр_дополнительного_образования
             var Form1 = new Form1();
             Form1.Show();
         }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
